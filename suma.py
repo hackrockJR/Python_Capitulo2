@@ -15,4 +15,3 @@ c= valora + valorb
 
 print("\nSuma= ",c)
 
-
