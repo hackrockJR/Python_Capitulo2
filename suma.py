@@ -21,9 +21,9 @@ print("\nSuma= ",c)
 print (" \n Digite Enter para finalizar")
 
 # Mantener en pantalla hasta que le de enter
-# msvcrt.getch() Solo para windows 
+# Segun solo para windows 
+ msvcrt.getch()  
 
-# Para todo sistema operativo
-raw_input()
+
 
 
