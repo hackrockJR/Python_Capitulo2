@@ -15,3 +15,4 @@ c= valora + valorb
 
 print("\nSuma= ",c)
 
+print (" \n Digite Enter para finalizar")
