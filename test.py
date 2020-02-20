@@ -1,6 +1,8 @@
 #!/usr/bin/env python
 #_*_ coding: utf8 _*_
 
+# No funciona 
+
 import requests
 import argparse 
 
