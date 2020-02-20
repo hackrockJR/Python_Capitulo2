@@ -1,4 +1,5 @@
 # Programa suma por Juan Romero 
+import msvcrt
 
 print ("Programa que suma dos numeros que se digitan\n")
 
@@ -16,3 +17,6 @@ c= valora + valorb
 print("\nSuma= ",c)
 
 print (" \n Digite Enter para finalizar")
+
+msvcrt.getch()
+
