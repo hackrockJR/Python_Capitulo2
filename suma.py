@@ -1,7 +1,7 @@
 # Programa suma por Juan Romero 
 
-# Importar la funcion que permite mantener la pantalla solo aplica en windows
-# import msvcrt
+# Importar funcion que permite mantener en pantalla
+import msvcrt
 
 print ("Programa que suma dos numeros que se digitan\n")
 
@@ -21,8 +21,9 @@ print("\nSuma= ",c)
 print (" \n Digite Enter para finalizar")
 
 # Mantener en pantalla hasta que le de enter
-# msvcrt.getch()
+# msvcrt.getch() Solo para windows 
 
+# Para todo sistema operativo
 raw_input()
 
 
