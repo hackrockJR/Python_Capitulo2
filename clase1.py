@@ -12,6 +12,7 @@ likes = 4
 
 print (likes)
 
+# Sumar += (cantidad) o Multiplicar *= (cantidad)
 likes = likes + 1
 
 print (likes)
@@ -19,6 +20,9 @@ print (likes)
 likes += 1
 
 print (likes)
+
+likes *= 2
+
 
 Total = 0 
 Likes = 4 
