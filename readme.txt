@@ -115,6 +115,34 @@ print ("\nEsta salida se ejecuta fuera del if")
 
 }
 
+9- whileconCondicionalsintrue
+
+{
+# Definir variable de incremento
+# Definir el valor de la variable igual a True tipo booleano   
+# En la siguiente linea debera decidir si declarar una variable con valor booleano o con una cadena
+# Si se declara cadena , solo basta con que el usuario digite el valor que hace terminar el bucle
+# En este caso usaremos la cadena s  
+# definir la condicion para cuando la entrada sea s volver entrar al bucle
+if retweets2>0: print("Este tweets tiene Retweets")
+    otro = input("Desea introducir un nuevo tweet? s/n: ")
+    if otro == "s": 
+        otrotweet2 = True
+    else:    
+        otrotweet2 = False
+}
+
+10- Funcion_range.py 
+
+{
+
+# Devuelve una lista con un rango de numero 
+# Sintaxis range(n) genera una lista desde 0 hasta n-1 
+# Definir rango de inicio y final-1 (n,m)
+# Desde 1 al 10 , con saltos o incrementos de 2 (n,m,s)
+
+}
+
 
 
 
