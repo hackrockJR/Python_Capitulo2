@@ -25,3 +25,9 @@ Palabra = 'Esta es una palabra'
 Oracion = "Esta es una oracion" 
 parrafo = """Este parrafo esta en multiples 
 lineas"""
+
+''' Multiples declaraciones en una linea separado por ; '''
+
+import sys; x = 'foo'; sys.stdout.write(x + '\n'); print("Hola Mundo")
+
+
