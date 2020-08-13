@@ -142,8 +142,20 @@ if retweets2>0: print("Este tweets tiene Retweets")
 # Desde 1 al 10 , con saltos o incrementos de 2 (n,m,s)
 
 }
+Ruta_del_intepreter
+{
+>>> import os
+>>> import sys
+>>> os.path.dirname(sys.executable)
+}
+
+miscelaneos.py
+{
+1-Continuacion de linea
+2- Uso de comillas
 
 
+}
 
 
 
